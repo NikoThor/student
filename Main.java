@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         student nikolaj = new student();
-
+// tog bare min bror som mit andent eksempel //
         student rasmus = new student();
 
         nikolaj.setNavn("Nikolaj T. Christensen");
